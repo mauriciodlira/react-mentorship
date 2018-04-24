@@ -1,0 +1,15 @@
+ul.navbar {
+    list-style-type: none;
+    display: inline-flex;
+}
+
+li.nav-item {
+    padding: 0 10px;
+    font-family: "Droid Sans Mono", monospace;
+    font-weight: 900;
+}
+
+li.nav-item:hover {
+    text-decoration: underline;
+    cursor: default;
+}

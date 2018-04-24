@@ -1,0 +1,15 @@
+ul.repositories-list {
+    list-style-type: none;
+}
+
+h3.repository-title {
+    font-family: "Droid Sans Mono", monospace;
+    font-weight: 700;
+}
+
+.repository-divider {
+    width: 10% !important;
+    height: 1px !important;
+    border-bottom: #222 2px dashed;
+    margin: 20px auto;
+}
